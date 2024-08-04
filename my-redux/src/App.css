@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  color: brown;
+  background-color: sandybrown;
+}
+
+.completed {
+  text-align: line-through;
+  opacity: 0.5;
+  color: blue;
+}
+.form-container {
+  text-align: center;
+  color: blueviolet;
+}
+.form-container form {
+  display: flex;
+  width: 40em;
+  margin: 15px auto;
+  color: aqua;
+}
+.tasks-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 0, 0);
+}
+
